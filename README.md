@@ -1,2 +1,3 @@
 # hello-world
-Just another repository for use
+Learning about the whole world of blockchain
+
